@@ -14,7 +14,7 @@
 #include <boost/serialization/string.hpp>
 #include <boost/serialization/vector.hpp>
 #include <boost/serialization/base_object.hpp>
-#include "/import/home/udupi/opt/cudd/include/cudd.h"
+#include "cudd.h"
 using namespace std;
 
 
