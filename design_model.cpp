@@ -2,7 +2,7 @@
 // Last updated : 26.07.2017
 
 // This file contains the ternary simulation semantics and the Observability propagation models
-// for the the library cells of the 45nm Nangate Open Cell Library
+// for the the library cells of the 45nm Nangate Open Cell Library and 65nm ST Micro library
 
 #include <iostream>
 #ifndef DESIGN_MODEL
